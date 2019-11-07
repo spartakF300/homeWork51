@@ -1,0 +1,41 @@
+.page-top {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    height: 570px;
+    color: #fff;
+    background: url('https://gizblog.it/wp-content/uploads/2019/03/mozilla-firefox-estensione-google-chrome-banner.jpeg') 50% 0 no-repeat;
+    background-size: cover;
+
+}
+
+.txt {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translateY(-50% );
+}
+
+.page-top_container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.btn {
+    font-size: 20px;
+    font-weight: normal;
+    padding: 25px 20px;
+    background-color: #99c50a;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.txt > h1 {
+    color: #000000;
+}
+
+.txt > h2 {
+    color: #000000;
+}
